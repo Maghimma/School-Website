@@ -61,3 +61,11 @@ color: white;
 .school-achievement-collapse  {
     background-color: black;
 }
+
+.new {
+    margin-bottom: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+}
